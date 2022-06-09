@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Mocha"
+    }
+  ],
+  "description": "My image",
+  "image": "ipfs://QmWeoVg2DwuyriCvBqnUqnJmDhDUA2V31MYiM3q7f7vq28",
+  "name": "Farhad"
+}

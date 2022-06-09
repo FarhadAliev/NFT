@@ -1,0 +1,22 @@
+{
+  "name": "nft",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx hardhat --network rinkeby run scripts/deploy.js"
+  },
+  "keywords": [],
+  "author": "Farhad Aliev",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.6",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.9.9"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.4.2",
+    "@openzeppelin/contracts": "^4.6.0",
+    "dotenv": "^16.0.1"
+  }
+}
